@@ -15,20 +15,12 @@ class _ListView5State extends State<ListView5> {
         ),
         body: Column(
           children: const <Widget>[
-            Text('Apellidos:'),
-            Text('Vidal Ortiz'),
-            Text('Nombres:'),
-            Text('Christian Camilo'),
-            Text('Identiticacion (tipo-numero):'),
-            Text('CC-1085946830'),
-            Text('RH:'),
-            Text('O+'),
-            Text('No comer alimentos duros por 3 horas'),
-            Text('\n'),
-            Text('Primer tratamiento: Blanqueamiento dental'),
-            Text('Fecha: 05/04/2022'),
-            Text('Observaciones:'),
-            Text('No consumir bebidas con colorantes'),
+            Text('Cita Estetica dental'),
+            Text('LLamada: 05/10/2021- Asignada 20/10/2021'),
+            Text('cita Caries'),
+            Text('LLamada: 22/10/2021- Asignada 26/10/2021'),
+            Text('Cita Sensibilidad dental'),
+            Text('LLamada: 05/12/2021- Asignada 10/12/2021'),
             Expanded(
               child: FittedBox(
                 child: FlutterLogo(),

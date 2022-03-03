@@ -47,7 +47,7 @@ class _ListView3State extends State<ListView3> {
             Text('Identiticacion (tipo-numero):'),
             Text('CC-1085946830'),
             Text('RH:'),
-            Text('O+'),
+            Text('AB+'),
             Expanded(
               child: FittedBox(
                 child: FlutterLogo(),

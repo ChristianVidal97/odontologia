@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:odont/views/listview3_view.dart';
 import 'package:odont/views/listview4_view.dart';
 import 'package:odont/views/listview5_view.dart';
+import 'package:odont/views/listview6_view.dart';
 
 class ListView1 extends StatelessWidget {
   final num1 = 1;
@@ -46,7 +47,7 @@ class ListView1 extends StatelessWidget {
               trailing: Icon(Icons.arrow_forward),
               onTap: () {
                 Navigator.push(context,
-                    MaterialPageRoute(builder: (context) => ListView1()));
+                    MaterialPageRoute(builder: (context) => ListView6()));
               }),
         ],
       ),
