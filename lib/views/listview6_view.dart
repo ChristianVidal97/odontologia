@@ -9,7 +9,6 @@ class ListView6 extends StatefulWidget {
 class _ListView6State extends State<ListView6> {
   @override
   //
-
   Card miCard() {
     return Card(
       // Con esta propiedad modificamos la forma de nuestro card
