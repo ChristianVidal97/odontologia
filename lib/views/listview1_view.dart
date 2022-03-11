@@ -5,9 +5,6 @@ import 'package:odont/views/listview5_view.dart';
 import 'package:odont/views/listview6_view.dart';
 
 class ListView1 extends StatelessWidget {
-  final num1 = 1;
-  final num2 = 2;
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
