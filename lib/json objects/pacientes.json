@@ -1,0 +1,51 @@
+[{
+    "_id": {
+      "$oid": "6233fc35d834f09650decab6"
+    },
+    "nombre": "christian",
+    "apellido": "vidal",
+    "genero": "masculino",
+    "edad": "24",
+    "estrato": "4",
+    "rh": "ab+"
+  },{
+    "_id": {
+      "$oid": "6233fde0d834f09650decab7"
+    },
+    "nombre": "camilo",
+    "apellido": "ortiz",
+    "genero": "masculino",
+    "edad": "24",
+    "estrato": "4",
+    "rh": "ab+"
+  },{
+    "_id": {
+      "$oid": "623400015fb70182b86e1204"
+    },
+    "nombre": "jorge",
+    "apellido": "vidal",
+    "genero": "masculino",
+    "edad": "58",
+    "estrato": "4",
+    "rh": "a+"
+  },{
+    "_id": {
+      "$oid": "623400015fb70182b86e1205"
+    },
+    "nombre": "maria",
+    "apellido": "ortiz",
+    "genero": "femenino",
+    "edad": "58",
+    "estrato": "4",
+    "rh": "a+"
+  },{
+    "_id": {
+      "$oid": "623400015fb70182b86e1206"
+    },
+    "nombre": "victoria",
+    "apellido": "guerrero",
+    "genero": "femenino",
+    "edad": "55",
+    "estrato": "4",
+    "rh": "b+"
+  }]
